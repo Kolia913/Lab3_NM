@@ -3,5 +3,5 @@
 # Install dependencies
 ```npm install```
 # Start project
-```cd <your_project_dir>``` \n
+```cd <your_project_dir>``` <br>
 ```npm start```
